@@ -1,0 +1,13 @@
+com\mycompany\util\CSVImporter.class
+com\mycompany\util\JPAUtil.class
+com\mycompany\dao\ProductDAO.class
+com\mycompany\ui\MainForm$1.class
+com\mycompany\dao\UserDAO.class
+com\mycompany\model\User.class
+com\mycompany\model\Product.class
+com\mycompany\ui\MainForm$2.class
+com\mycompany\Main.class
+com\mycompany\model\Supplier.class
+com\mycompany\util\ReportGenerator.class
+com\mycompany\ui\MainForm.class
+com\mycompany\dao\SupplierDAO.class
